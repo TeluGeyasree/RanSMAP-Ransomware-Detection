@@ -1,0 +1,15 @@
+# Ignore dataset
+data/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore large model
+MODELS/all_models.pkl
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
