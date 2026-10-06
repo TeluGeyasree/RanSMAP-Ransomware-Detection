@@ -118,8 +118,7 @@ Python version used: **3.9**
 ## Limitations
 
 - The app does **batch prediction** on an uploaded CSV. It does not monitor a live system.
-- The models are trained on RanSMAP only. Performance on other datasets or real-world machines is untested.
-- Results are from cross-validation on this dataset and should not be read as production accuracy.
+- The were trained and evaluated only on RanSMAP. Ransomware families and benign programs outside this dataset were not tested, so performance on them is unknown.
 
 ## Author
 
